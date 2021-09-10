@@ -1,2 +1,2 @@
 # Calculator
-## This calculator was designed using HTML, CSS and Vanilla JavasScript
+### This is simple calculator designed with the help of HTML, CSS and Vanilla JavasScript
